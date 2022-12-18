@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.csv
+*.npy
+*.ini
+*.h5
+*.gz
+*.vscode
+glove*.txt
+glove*.zip
